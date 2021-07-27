@@ -1,7 +1,7 @@
 {
   "name": "settings-testing",
   "version": "1.0.0",
-  "description": "",
+  "description": "[![Build Status](https://travis-ci.com/bonisiweinnocent/setting-testing.svg?branch=master)](https://travis-ci.com/bonisiweinnocent/setting-testing)",
   "main": "settings-bill.js",
   "directories": {
     "test": "test"
@@ -11,5 +11,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bonisiweinnocent/setting-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bonisiweinnocent/setting-testing/issues"
+  },
+  "homepage": "https://github.com/bonisiweinnocent/setting-testing#readme"
 }
